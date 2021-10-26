@@ -1,4 +1,4 @@
-sup_tot,sup_cub,ambientes,dormitorios,expensas,precio,precio_moneda,ubicación,lat,lon,fecha,href,inm_tipo
+sup_total,sup_cub,ambientes,dormitorios,expensas,precio,precio_moneda,ubicación,lat,lon,fecha,href,inm_tipo
 20.0,20.0,1.0,,,18000,$,"Directorio 2350, Flores",-34.6334095,-58.4598322,2021-10-13T18:52:22.000Z,https://departamento.mercadolibre.com.ar/MLA-1108030498-alquiler-monoambiente-flores-_JM#position=1&search_layout=grid&type=item&tracking_id=926f6e9d-1633-4ff4-b555-00052a10c321,depto
 35.0,35.0,2.0,1.0,6500.0,25000,$,"R¿o De Janeiro 300, Caballito",-34.612076200000004,-58.430379200000004,2021-10-15T13:04:59.000Z,https://departamento.mercadolibre.com.ar/MLA-1108278762-departamento-2-ambientes-amoblado-alquiler-caballito-_JM#position=2&search_layout=grid&type=item&tracking_id=926f6e9d-1633-4ff4-b555-00052a10c321,depto
 80.0,80.0,3.0,2.0,,40000,$,"Carabobo 1086, Parque Chacabuco",-34.638645399999994,-58.450539299999996,2021-10-12T20:15:32.000Z,https://departamento.mercadolibre.com.ar/MLA-1107861392-dueno-alquila-3-amb-80m-segundo-piso-por-escalera-al-frente-_JM#position=3&search_layout=grid&type=item&tracking_id=926f6e9d-1633-4ff4-b555-00052a10c321,depto
