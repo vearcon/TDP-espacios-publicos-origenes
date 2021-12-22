@@ -1,19 +1,4 @@
 #!/usr/bin/python3
-'''
-Sacando data del link 46
-Sacando data del link 47
-Guardando...
-Traceback (most recent call last):
-  File "Desktop/scrap_meli.py", line 221, in <module>
-    scrap(url, filepath)
-  File "Desktop/scrap_meli.py", line 198, in scrap
-    save_data( data, filename ) #un csv vacío da siz
-  File "Desktop/scrap_meli.py", line 164, in save_data
-    existing_file = name in os.listdir(dirpath)
-NameError: name 'name' is not defined
-
-'''
-
 
 import os, sys
 import time
